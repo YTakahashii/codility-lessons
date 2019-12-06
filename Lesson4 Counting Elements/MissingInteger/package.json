@@ -1,0 +1,12 @@
+{
+  "name": "MissingInteger",
+  "version": "1.0.0",
+  "description": "This is a demo task.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
